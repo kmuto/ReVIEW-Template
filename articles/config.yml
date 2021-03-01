@@ -95,8 +95,7 @@ urnid: urn:uuid:https://github.com/TechBooster/ReVIEW-Template
 # ISBN。省略した場合はurnidが入る
 # isbn: null
 #
-# @<chap>, @<chapref>, @<title>, @<hd>命令をハイパーリンクにする(nullでハイパー
-リンクにしない)
+# @<chap>, @<chapref>, @<title>, @<hd>命令をハイパーリンクにする(nullでハイパーリンクにしない)
 # chapterlink: true
 
 # HTMLファイルの拡張子(省略した場合はhtml)
